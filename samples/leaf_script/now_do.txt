@@ -1,0 +1,5 @@
+ทำ process เดิมพี่เอก เพื่อเปรียบเทียบ ต้องใช้ wegiht 16 เพื่อหา roi จากภาพต้นเขียวเล็กให้ถูกต้อง
+
+ถึงจะรันระบบต่อไปได้
+
+D:\______WO\_________________from_desktop\_do_file_image_train_test\_PP_test_image_plant\use_test_compare_bm_with_p_ake\_process_P_ake
